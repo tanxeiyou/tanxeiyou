@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deeptanshu Sharma (@tanxeiyou)
-- 👀 I’m interested in programming, physics, technology, biology, and everything else that satiates my curiosity, let me build stuff, & could provide answers to my questions.
+- 👀 I’m interested in programming, physics, technology, biology, and everything else that satiates my curiosity, let me build & fix stuff, & could provide answers to my questions.
 - 🌱 I’m currently learning everything I find intersting
 - 💞️ I’m looking to collaborate on React, javascript, typescript, & rust(learning) projects.
 - ⚡ Fun fact: I can draw a pretty neat outline of the world map without any reference.
